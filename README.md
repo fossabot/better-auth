@@ -24,6 +24,7 @@
 [![npm](https://img.shields.io/npm/dm/better-auth?style=flat&colorA=000000&colorB=000000)](https://npm.chart.dev/better-auth?primary=neutral&gray=neutral&theme=dark)
 [![npm version](https://img.shields.io/npm/v/better-auth.svg?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/better-auth)
 [![GitHub stars](https://img.shields.io/github/stars/better-auth/better-auth?style=flat&colorA=000000&colorB=000000)](https://github.com/better-auth/better-auth/stargazers)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbetter-auth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbetter-auth?ref=badge_shield)
 </p>
 
 ## About the Project
@@ -47,3 +48,7 @@ You could help continuing its development by:
 If you discover a security vulnerability within Better Auth, please send an e-mail to [security@better-auth.com](mailto:security@better-auth.com).
 
 All reports will be promptly addressed, and you'll be credited accordingly.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fbetter-auth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fbetter-auth?ref=badge_large)
